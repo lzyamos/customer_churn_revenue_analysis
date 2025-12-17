@@ -48,3 +48,5 @@ The datasets were generated to reflect realistic subscription business behavior 
 - Proactively monitor customers with high support activity.
 - Improve onboarding and retention incentives for Basic plan subscribers.
 - Target high-risk customers with personalized retention campaigns.
+
+![Dashboard Overview](dashboard_overview.png)
